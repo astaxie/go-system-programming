@@ -1,7 +1,7 @@
 Go system programming
 =====================
 
-Go System Programming is a book about how to Linux System Porgramming in Go. There's many books introduce the basic Go. Like:
+Go System Programming is a book about how to Linux System Programming in Go. There's many books introduce the basic Go. Like:
 
 - [Go tutorial](http://tour.golang.org/)
 - [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
